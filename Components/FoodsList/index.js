@@ -10,7 +10,9 @@ const FoodsList = () => {
         <View style={styles.container}>
             <FlatList
                 data={foods}
-                renderItem={({ item }) => <FoodItem food={item} />}
+                renderItem={({ item }) => (
+                    <FoodItem food={item} key={item.id} />
+                )}
                 showsVerticalScrollIndicator={false}
                 snapToAlignment={"start"}
                 decelerationRate={"fast"}
