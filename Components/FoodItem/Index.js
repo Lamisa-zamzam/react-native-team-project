@@ -4,6 +4,7 @@ import StyledButton from "../StyledButton";
 import styles from './styles';
 
 const FoodItem = (props) => {
+    console.log(props);
     const { name, tagline, taglineCTA, image } = props.food;
 
     return (
@@ -37,7 +38,7 @@ const FoodItem = (props) => {
                     type="secondary"
                     content={"Existing Inventory"}
                     onPress={() => {
-                        console.warn("Existing Inventory was pressed");
+                        navigation.navigate('Profile', { name: 'Jane' })
                     }}
                 />
             </View>
