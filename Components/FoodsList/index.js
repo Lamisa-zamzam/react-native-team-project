@@ -3,6 +3,7 @@ import { View, FlatList, Dimensions } from "react-native";
 import styles from "./styles";
 import foods from "./Foods";
 import FoodItem from "../FoodItem/Index";
+import StyledButton from "../StyledButton";
 
 const FoodsList = () => {
     return (
