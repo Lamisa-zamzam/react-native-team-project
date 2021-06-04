@@ -6,7 +6,7 @@ import styles from "./styles";
 const Header = () => {
     return (
         <View style={styles.container}>
-            <Text>Get Crispy Foods Here</Text>
+            <Text style={styles.text}>Get Crispy Foods Here</Text>
         </View>
     );
 };
