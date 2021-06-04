@@ -4,11 +4,10 @@ import StyledButton from "../StyledButton";
 import styles from './styles';
 
 const FoodItem = (props) => {
-
-    const { name, tagline, taglineCTA, image } = props.car;
+    const { name, tagline, taglineCTA, image } = props.food;
 
     return (
-        <View style={styles.carContainer}>
+        <View style={styles.foodContainer}>
             <ImageBackground
                 source={image}
                 style={styles.image}

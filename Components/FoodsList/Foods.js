@@ -3,10 +3,10 @@ export default [{
     tagline: 'Starting at $69,420',
     image: require('../../assets/images/ModelS.jpeg'),
 }, {
-    name: 'Model 3',
+    name: 'Sweet Potato Parmesan Tater Tots with Sriracha Ketchup',
     tagline: 'Order Online for',
     taglineCTA: 'Touchless Delivery',
-    image: require('../../assets/images/Model3.jpeg'),
+    image: require('../../assets/images/potato.jpg'),
 }, {
     name: 'Model X',
     tagline: 'Order Online for',
