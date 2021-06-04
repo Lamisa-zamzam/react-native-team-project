@@ -3,7 +3,7 @@ export default [
         name: "Autumn Soup",
         tagline: "Order Online for",
         price: "$420",
-        image: require(""),
+        image: "",
         description:
             " If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated",
     },
@@ -11,7 +11,7 @@ export default [
         name: "Chicken Sandwich",
         tagline: "Order Online for",
         price: "$399",
-        image: require(""),
+        image: "",
         description:
             " If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated",
     },
@@ -19,7 +19,7 @@ export default [
         name: "EggItem",
         tagline: "Order Online for",
         price: "$400",
-        image: require(""),
+        image: "",
         description:
             " If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated",
     },
@@ -27,7 +27,7 @@ export default [
         name: "Meal with salmon and zucchini",
         tagline: "Order Online for",
         price: "$220",
-        image: require(""),
+        image: "",
         description:
             " If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated",
     },
@@ -35,7 +35,7 @@ export default [
         name: "Little Bowl",
         tagline: "Order Online for",
         price: "$320",
-        image: require(""),
+        image: "",
         description:
             " If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated",
     },
@@ -43,7 +43,7 @@ export default [
         name: "Mediterranean Salad",
         tagline: "Order Online for",
         price: "$350",
-        image: require(""),
+        image: "",
         description:
             " If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated",
     },
@@ -51,7 +51,7 @@ export default [
         name: "Pancake Stack",
         tagline: "Order Online for",
         price: "$320",
-        image: require(""),
+        image: "",
         description:
             " If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated",
     },
@@ -59,7 +59,7 @@ export default [
         name: "Vegetable Items",
         tagline: "Order Online for",
         price: "$450",
-        image: require(""),
+        image: "",
         description:
             " If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated",
     },
@@ -67,7 +67,7 @@ export default [
         name: "Yogurt Bowl",
         tagline: "Order Online for",
         price: "$550",
-        image: require(""),
+        image: "",
         description:
             " If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated",
     },
