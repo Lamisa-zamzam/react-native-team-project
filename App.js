@@ -1,10 +1,12 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
-import { StyleSheet, View } from "react-native";
+import { StyleSheet, View, Text } from "react-native";
+import FoodItem from "./Components/FoodItem/Index";
 
 export default function App() {
     return (
         <View style={styles.container}>
+            <FoodItem>Hello</FoodItem>
             <StatusBar style="auto" />
         </View>
     );
